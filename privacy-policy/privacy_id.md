@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/kipos_logo_header.svg" alt="kiPOS Logo" width="180">
+  <img src="../assets/kipos_logo_header.svg" alt="kiPOS Logo" width="180">
 </p>
 
 # Kebijakan Privasi kiPOS
