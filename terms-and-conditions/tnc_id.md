@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/kipos_logo_header.png" alt="kiPOS Logo" width="180">
+  <img src="../assets/kipos_logo_header.svg" alt="kiPOS Logo" width="180">
 </p>
 
 # Syarat dan Ketentuan Layanan kiPOS
@@ -31,5 +31,5 @@ Selamat datang di kiPOS, layanan *Point of Sale* (POS) berbasis perangkat lunak 
 ---
 
 <p align="center">
-  <img src="../assets/axel_studio_badge.png" width="110" alt="Axel Studio Badge">
+  <img src="../assets/axel_studio_badge.svg" width="110" alt="Axel Studio Badge">
 </p>
